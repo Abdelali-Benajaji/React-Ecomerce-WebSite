@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "title": "LAP 1",
+      "thumbnail": "/images/hp.jpg",
+      "price": 9.99,
+      "description": "new hp laptop with good price"
+    },
+    {
+      "id": 2,
+      "title": "LAP 2",
+      "thumbnail": "/images/lonovo.jpg",
+      "price": 14.99,
+      "description": "new lenovo laptop with good price"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "thumbnail": "/images/2.jpg",
+      "price": 14.99,
+      "description": "This is product 3"
+    },
+    {
+      "id": 4,
+      "title": "MOuse",
+      "thumbnail": "/images/3.jpg",
+      "price": 14.99,
+      "description": "White Mouse"
+    },
+    {
+      "id": 5,
+      "title": "HeadPhone 1",
+      "thumbnail": "/images/13.jpg",
+      "price": 14.99,
+      "description": "This is Casek 1"
+    },
+    {
+      "id": 6,
+      "title": "HeadPhone 2",
+      "thumbnail": "/images/cas1.jpg",
+      "price": 14.99,
+      "description": "This is Casek 2"
+    }
+    
+  ]
+  
